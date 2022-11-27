@@ -1,0 +1,27 @@
+//Operation Division START
+//Great technique is the divergent loop and array_number method.
+
+           // Quo([1,5],[3])
+
+            function Quo(P,Q){
+               var A=[] 
+                  A.push(1);
+            for (m=1; m<m+1; m++){
+                  //alert(m)
+                  
+                 var x_1=array_Number(Prod(Q,A));
+                  var y_1=array_Number(P)  
+                   //alert(x_1+" "+y_1)  
+            if ( x_1>=y_1){ 
+                            //alert("operation complete")     
+                            break; 
+                       } 
+           else{  
+                   //alert("processing")
+                 A=number_Array(array_Number(A)+1) ;}
+                 //alert(A)
+               }  
+  //alert("Answer is "+ A)
+    return A}           
+
+//Division End

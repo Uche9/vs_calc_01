@@ -1,0 +1,125 @@
+     
+
+               .displayPanel {
+                 position: absolute;
+                 top:60;
+                 left:1;
+                 background:blue;
+                 border:solid orange;
+                 width: 1263px;
+                 height: 350px}
+
+             .displayCell {
+                 position: absolute;
+                 border:orange;
+                 width: 9px;
+                 height:9px;
+                 
+                 }
+
+          .Digits {
+                 position: relative;
+                 border:orange;
+                 background-color:orange;
+                 width: 30px;
+                 height:25px;
+                 margin:0;
+                 padding:0;
+                 border:0;
+                 border-radius:4px;
+                 }
+
+         .Operators {
+                 position: relative;
+                 border:orange;
+                 background-color:fushia;
+                 width: 35px;
+                 height:25px;
+                 margin:0;
+                 padding:0;
+                 outset:2;
+                 border:0;
+                 border-radius:4px;
+                 top:2px;
+                 }
+
+          .Controls {
+                 position: relative;
+                 border:orange;
+                 background-color:wine;
+                 width: 90px;
+                 height:25px;
+                 margin:0;
+                 padding:0;
+                 outset:2;
+                 border:0;
+                 border-radius:4px;
+                 top:10px;
+                 }
+         .Space {
+                 position: relative;
+                 border:orange;
+                 background-color:fushia;
+                 width: 80px;
+                 height:25px;
+                 margin:0;
+                 padding:0;
+                 outset:2;
+                 border:0;
+                 border-radius:4px;
+                 top:4px;
+                 }
+         .Delete {
+                 position: relative;
+                 border:orange;
+                 background-color:fushia;
+                 width: 55px;
+                 height:25px;
+                 margin:0;
+                 padding:0;
+                 outset:2;
+                 border:0;
+                 border-radius:4px;
+                 top:4px;
+                 }
+          .Read {
+                 position: relative;
+                 border:orange;
+                 background-color:fushia;
+                 width: 55px;
+                 height:25px;
+                 margin:0;
+                 padding:0;
+                 outset:2;
+                 border:0;
+                 border-radius:4px;
+                 top:4px;
+                 }
+
+            .Ans {
+                 position: relative;
+                 border:orange;
+                 background-color:fushia;
+                 width: 55px;
+                 height:25px;
+                 margin:0;
+                 padding:0;
+                 outset:2;
+                 border:0;
+                 border-radius:4px;
+                 top:4px;
+                 }
+            
+          .Clear {
+                 position: relative;
+                 border:orange;
+                 background-color:Red;
+                 width: 55px;
+                 height:25px;
+                 margin:0;
+                 padding:0;
+                 outset:2;
+                 border:0;
+                 border-radius:4px;
+                 top:4px;
+                 }
